@@ -1,0 +1,151 @@
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#list {
+    position: sticky;
+    top: 0px;
+    list-style-type: none;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 1326px;
+    padding-top: 10px;
+    margin-left: -8px;
+    margin-top: -16px;
+}
+
+.anker {
+    text-decoration: none;
+    color: lightgrey;
+    font-size: 11px;
+    font-family: sans-serif;
+}
+
+li {
+    padding-left: 50px;
+}
+
+.anker:hover {
+    color: #fff;
+}
+
+.click:hover {
+    color: #fff;
+}
+
+.pic_1 {
+    color: lightgrey;
+    font-size: 18px;
+}
+
+.pic_2 {
+    color: lightgrey;
+    font-size: 14px;
+}
+
+.pic_3 {
+    color: lightgrey;
+    font-size: 14px;
+}
+
+#mac1 {
+    width: 1366px;
+    height: 680px;
+    margin-left: -8px;
+    margin-top: -16px;
+}
+
+#mini1 {
+    width: 1366px;
+    height: 550px;
+    margin-left: -8px;
+    margin-top: -16px;
+}
+
+#pod1 {
+    width: 1366px;
+    height: 600px;
+    margin-left: -8px;
+    margin-top: -16px;
+}
+
+#watch1 {
+    width: 650px;
+    height: 650px;
+    margin-left: 8px;
+    margin-top: -4px;
+}
+
+#watch2 {
+    width: 663px;
+    height: 650px;
+    margin-left: 8px;
+    margin-top: -4px;
+}
+
+#iphone {
+    width: 1300px;
+    height: 600px;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+
+#iphone1 {
+    width: 650px;
+    height: 650px;
+    margin-left: 8px;
+    margin-top: -4px;
+}
+
+#iphone2 {
+    width: 650px;
+    height: 650px;
+    margin-left: 8px;
+    margin-top: -4px;
+}
+
+#ipad1 {
+    width: 650px;
+    height: 650px;
+    margin-left: 8px;
+    margin-top: -4px;
+}
+
+#privacy {
+    width: 650px;
+    height: 650px;
+    margin-left: 8px;
+    margin-top: -4px;
+}
+/* span{
+    color: #fff;
+    font-size: 60px;
+    font-weight: bolder;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: -2px;
+}
+#size{
+    position: sticky;
+    bottom:  0%;
+    z-index: 1;
+    margin-left: 1280px;
+}
+#none{
+    text-decoration: none;
+}
+#none:hover{
+    text-decoration: underline;
+    font-size: 61px;
+} */
